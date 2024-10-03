@@ -1,0 +1,145 @@
+!_TAG_FILE_ENCODING	utf-8	//
+arctic-arctic-nvim	arctic.md	/# Arctic.nvim
+arctic-customization	arctic.md	/## Customization
+arctic-installation	arctic.md	/## Installation
+arctic-introduction	arctic.md	/## Introduction
+arctic-new-version	arctic.md	/## New Version
+arctic-screenshots	arctic.md	/## Screenshots
+arctic-usage	arctic.md	/## Usage
+dark_flat.nvim-available-colors-and-themes	dark_flat.nvim.md	/#### Available colors and themes
+dark_flat.nvim-customization-example	dark_flat.nvim.md	/### Customization example
+dark_flat.nvim-default	dark_flat.nvim.md	/### Default
+dark_flat.nvim-example	dark_flat.nvim.md	/#### Example
+dark_flat.nvim-eyes-inspiration	dark_flat.nvim.md	/## :eyes: Inspiration
+dark_flat.nvim-gear-setup	dark_flat.nvim.md	/## :gear: Setup
+dark_flat.nvim-options	dark_flat.nvim.md	/### Options
+dark_flat.nvim-requirement	dark_flat.nvim.md	/### Requirement
+dark_flat.nvim-rocket-installation	dark_flat.nvim.md	/## :rocket: Installation
+dracula.nvim-configuration	dracula.nvim.md	/## 🔧 Configuration
+dracula.nvim-importing-colors-for-other-usage	dracula.nvim.md	/## 🎨 Importing colors for other usage
+dracula.nvim-installation	dracula.nvim.md	/## ⬇️ Installation
+dracula.nvim-requirements	dracula.nvim.md	/## ✔️ Requirements
+dracula.nvim-supported-plugins	dracula.nvim.md	/## #️ Supported Plugins
+dracula.nvim-usage	dracula.nvim.md	/## 🚀 Usage
+eldritch.nvim-configuration	eldritch.nvim.md	/### Configuration
+eldritch.nvim-dashboard-nvim-https-github-com-nvimdev-dashboard-nvim-banner	eldritch.nvim.md	/##### \[dashboard.nvim\](https:\/\/github.com\/nvimdev\/dashboard-nvim) banner
+eldritch.nvim-extras	eldritch.nvim.md	/#### Extras
+eldritch.nvim-installation	eldritch.nvim.md	/### Installation
+eldritch.nvim-lua	eldritch.nvim.md	/#### Lua
+eldritch.nvim-lualine-https-github-com-nvim-lualine-lualine-nvim	eldritch.nvim.md	/#### \[Lualine\](https:\/\/github.com\/nvim-lualine\/lualine.nvim)
+eldritch.nvim-overriding-colors-highlight-groups	eldritch.nvim.md	/### 🪓 Overriding Colors & Highlight Groups
+eldritch.nvim-settings-and-color-alteration-demonstration	eldritch.nvim.md	/### Settings and color alteration demonstration
+eldritch.nvim-showcase	eldritch.nvim.md	/### Showcase
+eldritch.nvim-special-thanks	eldritch.nvim.md	/#### Special Thanks
+eldritch.nvim-usage	eldritch.nvim.md	/### Usage
+fluoromachine.nvim-license	fluoromachine.nvim.md	/## License
+fluoromachine.nvim-maintainers	fluoromachine.nvim.md	/## Maintainers
+gruvbox-baby-acknowledgments	gruvbox-baby.md	/## 👆 Acknowledgments
+gruvbox-baby-add-to-windows-terminal	gruvbox-baby.md	/#### add to Windows Terminal
+gruvbox-baby-configuration	gruvbox-baby.md	/## 🪛 Configuration
+gruvbox-baby-enable-lualine	gruvbox-baby.md	/#### enable Lualine
+gruvbox-baby-extras	gruvbox-baby.md	/## 👽 Extras
+gruvbox-baby-gruvbox-baby	gruvbox-baby.md	/# 🎄 Gruvbox baby!
+gruvbox-baby-installation	gruvbox-baby.md	/## ⚙️ Installation
+gruvbox-baby-localappdata-packages-microsoft-windowsterminal-8wekyb3d8bbwe-localstate-settings-json	gruvbox-baby.md	/# %LOCALAPPDATA%\/Packages\/Microsoft.WindowsTerminal_8wekyb3d8bbwe\/LocalState\/settings.json
+gruvbox-baby-lua	gruvbox-baby.md	/#### 🌙 Lua
+gruvbox-baby-other-themes-i-ve-made	gruvbox-baby.md	/## Other themes I've made
+gruvbox-baby-palette	gruvbox-baby.md	/## 🌈 Palette
+gruvbox-baby-plugin-support	gruvbox-baby.md	/## 🔌 Plugin support
+gruvbox-baby-pretty-pictures	gruvbox-baby.md	/## 📸 Pretty pictures
+gruvbox-baby-python	gruvbox-baby.md	/#### 🐍 Python
+gruvbox-baby-react-with-typescript	gruvbox-baby.md	/#### ⚛️ React with typescript
+gruvbox-baby-telescope	gruvbox-baby.md	/#### 🔍 Telescope
+gruvbox-baby-to-use-the-fzf-theme-the-environment-variables-used-have-to-be-defined	gruvbox-baby.md	/#To use the fzf theme the environment variables used have to be defined.
+gruvbox-baby-use-with-fzf	gruvbox-baby.md	/#### use with fzf
+gruvbox-baby-why	gruvbox-baby.md	/## 🤔 Why?
+gruvbox-baby-windows-terminal-settings-json-can-be-found-at	gruvbox-baby.md	/# Windows Terminal settings.json can be found at
+gruvbox-baby-you-can-use-the-tmux-or-bash-file-to-export-them-to-your-environment	gruvbox-baby.md	/#You can use the tmux or bash file to export them to your environment
+kanagawa.nvim-accessibility	kanagawa.nvim.md	/## Accessibility
+kanagawa.nvim-acknowledgements	kanagawa.nvim.md	/## Acknowledgements
+kanagawa.nvim-borderless-telescope	kanagawa.nvim.md	/#### Borderless Telescope
+kanagawa.nvim-common-customizations	kanagawa.nvim.md	/### Common customizations
+kanagawa.nvim-configuration	kanagawa.nvim.md	/## Configuration
+kanagawa.nvim-customization	kanagawa.nvim.md	/## Customization
+kanagawa.nvim-dark-completion-popup-menu	kanagawa.nvim.md	/#### Dark completion (popup) menu
+kanagawa.nvim-donate	kanagawa.nvim.md	/### Donate
+kanagawa.nvim-extras	kanagawa.nvim.md	/## Extras
+kanagawa.nvim-features	kanagawa.nvim.md	/## Features
+kanagawa.nvim-get-palette-and-theme-colors	kanagawa.nvim.md	/### Get palette and theme colors
+kanagawa.nvim-installation	kanagawa.nvim.md	/## Installation
+kanagawa.nvim-integration	kanagawa.nvim.md	/## Integration
+kanagawa.nvim-remove-gutter-background	kanagawa.nvim.md	/#### Remove _gutter_ background
+kanagawa.nvim-requirements	kanagawa.nvim.md	/## Requirements
+kanagawa.nvim-terminal-integration	kanagawa.nvim.md	/### Terminal integration
+kanagawa.nvim-themes	kanagawa.nvim.md	/## Themes
+kanagawa.nvim-transparent-floating-windows	kanagawa.nvim.md	/#### Transparent Floating Windows
+kanagawa.nvim-usage	kanagawa.nvim.md	/## Usage
+melange-nvim-design	melange-nvim.md	/## Design
+melange-nvim-features	melange-nvim.md	/## Features
+melange-nvim-installation	melange-nvim.md	/## Installation
+melange-nvim-previews	melange-nvim.md	/## Previews
+melange-nvim-requirements	melange-nvim.md	/## Requirements
+melange-nvim-usage	melange-nvim.md	/## Usage
+monokai.nvim-customization	monokai.nvim.md	/## Customization
+monokai.nvim-extras	monokai.nvim.md	/## Extras
+monokai.nvim-installation	monokai.nvim.md	/## Installation
+monokai.nvim-neovim-monokai	monokai.nvim.md	/# Neovim Monokai
+monokai.nvim-prerequisites	monokai.nvim.md	/## Prerequisites
+monokai.nvim-supported-monokai-flavours	monokai.nvim.md	/## Supported Monokai Flavours
+monokai.nvim-usage	monokai.nvim.md	/## Usage
+moonlight.nvim-configuration	moonlight.nvim.md	/## ⚙️ Configuration
+moonlight.nvim-features	moonlight.nvim.md	/## 🌠 Features
+moonlight.nvim-installation	moonlight.nvim.md	/## 🌙 Installation
+moonlight.nvim-modified-version-of-marko-cerovac-s-material-nvim-https-github-com-marko-cerovac-material-nvim-based-off-of-the-moonlight-theme-https-github-com-atomiks-moonlight-vscode-theme-for-vscode	moonlight.nvim.md	/## Modified version of Marko Cerovac's \[Material.nvim\](https:\/\/github.com\/marko-cerovac\/material.nvim), based off of the \[Moonlight Theme\](https:\/\/github.com\/atomiks\/moonlight-vscode-theme) for VSCode 
+moonlight.nvim-requirements	moonlight.nvim.md	/## ⚡️ Requirements
+moonlight.nvim-shaunsingh-moonlight-nvim	moonlight.nvim.md	/# 🌘 shaunsingh\/moonlight.nvim
+moonlight.nvim-usage	moonlight.nvim.md	/## 🌓 Usage
+night-owl.nvim-code-of-conduct	night-owl.nvim.md	/## Code of Conduct
+night-owl.nvim-comparison	night-owl.nvim.md	/## 🔎 Comparison
+night-owl.nvim-configuration	night-owl.nvim.md	/## ⚙️ Configuration
+night-owl.nvim-contributors	night-owl.nvim.md	/## Contributors
+night-owl.nvim-credits	night-owl.nvim.md	/## 🎇 Credits
+night-owl.nvim-install-in-zero-time	night-owl.nvim.md	/## 📦 Install In Zero Time
+night-owl.nvim-language-support	night-owl.nvim.md	/### Language Support 🌐
+night-owl.nvim-lazy-nvim	night-owl.nvim.md	/### lazy.nvim
+night-owl.nvim-license	night-owl.nvim.md	/## License
+night-owl.nvim-packer-nvim	night-owl.nvim.md	/### packer.nvim
+night-owl.nvim-plugins-supported	night-owl.nvim.md	/## 🧩 Plugins Supported
+night-owl.nvim-requirements	night-owl.nvim.md	/## 🖥️ Requirements
+night-owl.nvim-start-using-with-a-single-line	night-owl.nvim.md	/## 🚀 Start Using With A Single Line
+night-owl.nvim-vim-plug	night-owl.nvim.md	/### vim-plug
+night-owl.nvim-why-should-you-pick-this-version-of-night-owl	night-owl.nvim.md	/## ✨ Why Should You Pick _This_ Version of Night Owl?
+one_monokai.nvim-available-colors-and-themes	one_monokai.nvim.md	/#### Available colors and themes
+one_monokai.nvim-champagne-plugins-support	one_monokai.nvim.md	/## :champagne: Plugins support
+one_monokai.nvim-customization-example	one_monokai.nvim.md	/### Customization example
+one_monokai.nvim-default	one_monokai.nvim.md	/### Default
+one_monokai.nvim-example	one_monokai.nvim.md	/#### Example
+one_monokai.nvim-eyes-inspiration	one_monokai.nvim.md	/## :eyes: Inspiration
+one_monokai.nvim-gear-setup	one_monokai.nvim.md	/## :gear: Setup
+one_monokai.nvim-options	one_monokai.nvim.md	/### Options
+one_monokai.nvim-requirement	one_monokai.nvim.md	/### Requirement
+one_monokai.nvim-rocket-installation	one_monokai.nvim.md	/## :rocket: Installation
+one_monokai.nvim-scroll-contribution	one_monokai.nvim.md	/## :scroll: Contribution
+onedark.nvim-change-default-style	onedark.nvim.md	/### Change default style
+onedark.nvim-configuration	onedark.nvim.md	/## Configuration
+onedark.nvim-contributing	onedark.nvim.md	/## Contributing
+onedark.nvim-customization	onedark.nvim.md	/## Customization
+onedark.nvim-default-configuration	onedark.nvim.md	/## Default Configuration
+onedark.nvim-enable-lualine	onedark.nvim.md	/### Enable lualine
+onedark.nvim-enable-theme	onedark.nvim.md	/### Enable theme
+onedark.nvim-features	onedark.nvim.md	/### Features
+onedark.nvim-installation	onedark.nvim.md	/## Installation
+onedark.nvim-license	onedark.nvim.md	/## License
+onedark.nvim-plugins-configuration	onedark.nvim.md	/## Plugins Configuration
+onedark.nvim-plugins-supported	onedark.nvim.md	/## Plugins Supported
+onedark.nvim-reference	onedark.nvim.md	/## Reference
+onedark.nvim-themes	onedark.nvim.md	/## Themes
+onedark.nvim-vimscript-configuration	onedark.nvim.md	/### Vimscript configuration
+tokyodark.nvim-about	tokyodark.nvim.md	/### About
+tokyodark.nvim-default-configuration	tokyodark.nvim.md	/### Default configuration
+tokyodark.nvim-features	tokyodark.nvim.md	/### Features
+tokyodark.nvim-inspiration	tokyodark.nvim.md	/### Inspiration
+tokyodark.nvim-installation	tokyodark.nvim.md	/### Installation
+zephyr-nvim-about	zephyr-nvim.md	/## 💭 About
+zephyr-nvim-setup	zephyr-nvim.md	/## ⚙️ Setup
+zephyr-nvim-usage	zephyr-nvim.md	/## ▶️ Usage

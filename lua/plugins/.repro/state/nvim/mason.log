@@ -1,0 +1,6 @@
+[INFO  qua 02 out 2024 11:50:34] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  qua 02 out 2024 11:50:34] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[INFO  qua 02 out 2024 11:50:34] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=python-lsp-server) {}
+[INFO  qua 02 out 2024 11:50:43] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[ERROR qua 02 out 2024 11:50:49] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=clangd) error="Installation was aborted."
+[ERROR qua 02 out 2024 11:50:49] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=python-lsp-server) error="Installation was aborted."
